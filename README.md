@@ -10,7 +10,7 @@
 
 # Enjoy!!
 
-Showcase:
+## Showcase (not updated):
 
 ![Showcase1](https://github.com/Svxy/My-PixelArt-MC-World/blob/v1/showcase/showcase1st.png?raw=true)
 ![Showcase1](https://github.com/Svxy/My-PixelArt-MC-World/blob/v1/showcase/showcase2nd.png?raw=true)
