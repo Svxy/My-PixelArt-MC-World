@@ -12,6 +12,7 @@
 
 ## Showcase (not updated):
 
+[![Watch the video](https://i.ytimg.com/an_webp/qYf3pIRfXjY/mqdefault_6s.webp?du=3000&sqp=COy0oo0G&rs=AOn4CLD6myBgdG3FS6yYdfjUaUE3AmqwrA)](https://www.youtube.com/watch?v=qYf3pIRfXjY)
 ![Showcase1](https://github.com/Svxy/My-PixelArt-MC-World/blob/v1/showcase/showcase1st.png?raw=true)
 ![Showcase1](https://github.com/Svxy/My-PixelArt-MC-World/blob/v1/showcase/showcase2nd.png?raw=true)
 ![Showcase1](https://github.com/Svxy/My-PixelArt-MC-World/blob/v1/showcase/showcase3rd.png?raw=true)
